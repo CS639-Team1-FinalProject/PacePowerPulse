@@ -10,7 +10,7 @@ Majorly targeting audience of age group from mid 20's. As most of the people in 
 
 Creating a "FitnessApplication" will help users achieve their health and fitness goals conveniently from their mobile devices. This app successfully tackles these problems and helps to enhance students' general well-being and well-being is the aim of our project.
 
-<img src=![StudentImage](https://github.com/CS639-Team1-FinalProject/FitnessApplication/assets/158248802/5ec1f261-8bed-4fc0-9a6c-90220ce5ea5a) width="1000" height="1000">
+<img src=![StudentImage](https://github.com/CS639-Team1-FinalProject/FitnessApplication/assets/158248802/5ec1f261-8bed-4fc0-9a6c-90220ce5ea5a) width="150" height="280">
 
 This workout App will help Angel who is studying graduate program. She is good in her academics, but she’s not fit due to lack of focus on her physical health.
 This application can help Angel to become fitter by showing different forms of exercises and she can track all the progress by History.
