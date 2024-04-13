@@ -10,6 +10,14 @@ Majorly targeting audience of age group from mid 20's. As most of the people in 
 
 Creating a "FitnessApplication" will help users achieve their health and fitness goals conveniently from their mobile devices. This app successfully tackles these problems and helps to enhance students' general well-being and well-being is the aim of our project.
 
+Citations:
+
+https://www.who.int/teams/health-promotion/physical-activity/global-status-report-on-physical-activity-2022
+https://www.thegoodbody.com/fitness-statistics/
+https://www.cdc.gov/nchs/data/databriefs/db443.pdf
+https://americanfitnessindex.org/wp-content/uploads/2021/07/2021-American-Fitness-Index-Summary-Report_FINAL-20210610.pdf
+https://www.cdc.gov/physicalactivity/data/index.html
+
 
 This workout App will help Angel who is studying graduate program. She is good in her academics, but she’s not fit due to lack of focus on her physical health.
 This application can help Angel to become fitter by showing different forms of exercises and she can track all the progress by History.
@@ -19,3 +27,11 @@ The Major features include.
 Using SQLite, we can store data permanently on the device.
 We use text to speech, which is very useful in so many different applications. 
 We will use a media player, timers, recycle view for our project.
+
+To implement this project we will be using Mobile Application Frameworks like Andriod Studio, Kotlin. We will be also using partner API's.
+
+Citations:
+
+https://reintech.io/blog/kotlin-sensors-building-fitness-tracker-app
+https://developer.android.com/health-and-fitness/guides/basic-fitness-app/overview
+https://www.geeksforgeeks.org/how-to-create-a-workout-android-app-with-kotlin/
