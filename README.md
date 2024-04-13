@@ -27,6 +27,7 @@ The following three Google Play Store solutions are connected to the FitnessAppl
 1. FitNotes 2 - Gym Workout Log:
    
 • FitNotes is an application for tracking workouts that enables users to record their gym sessions and monitor their advancement over time.
+
 • It has features including tools for progress analysis, recording training history, and customizable fitness programs.
 
 • FitNotes is more gym-focused than the FitnessApplication, and it doesn't have features like text-to-speech integration or customized user experiences.
