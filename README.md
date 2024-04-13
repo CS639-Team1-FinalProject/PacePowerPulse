@@ -44,12 +44,13 @@ The following three Google Play Store solutions are connected to the FitnessAppl
 
 ![MyFitnessPal](https://github.com/CS639-Team1-FinalProject/FitnessApplication/assets/123391827/d7ca7c54-5fb0-4b8c-ac53-350fc2079480)
 
-￼
+
 3. Nike Training Club: 
 
 • This fitness app offers customers supervised training sessions conducted by qualified trainers. It provides a range of training schedules, exercise regimens, and workout programs catered to various fitness levels and objectives.
 
 • Although Nike Training Club places a strong emphasis on professional training and guided exercises, it might not offer the same degree of personalization and customization as the FitnessApplication, such as user-specific workout plans and text-to-speech integration.
-￼
+
+![Nike Training](https://github.com/CS639-Team1-FinalProject/FitnessApplication/assets/123391827/4b1c9eb9-7b84-4b4d-af62-fd47d4580891)
 
 These current options demonstrate many strategies for tracking exercise and fitness, each with specific advantages and areas of emphasis. The FitnessApplication can find areas for feature improvement and differentiation to give consumers a distinctive and engaging fitness experience by examining these options. Moreover, screenshots of these already-available solutions can be added to offer visual comparisons and an understanding of their feature sets and user interfaces.
