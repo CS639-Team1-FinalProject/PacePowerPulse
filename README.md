@@ -42,6 +42,8 @@ The following three Google Play Store solutions are connected to the FitnessAppl
 
 • MyFitnessPal prioritizes nutrition tracking and calorie management above text-to-speech features and workout guidance, in contrast to the FitnessApplication.
 
+![MyFitnessPal](https://github.com/CS639-Team1-FinalProject/FitnessApplication/assets/123391827/d7ca7c54-5fb0-4b8c-ac53-350fc2079480)
+
 ￼
 3. Nike Training Club: 
 
