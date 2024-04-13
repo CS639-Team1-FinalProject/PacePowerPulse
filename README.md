@@ -10,6 +10,14 @@ Majorly targeting audience of age group from mid 20's. As most of the people in 
 
 Creating a "FitnessApplication" will help users achieve their health and fitness goals conveniently from their mobile devices. This app successfully tackles these problems and helps to enhance students' general well-being and well-being is the aim of our project.
 
+Citations:
+
+https://www.who.int/teams/health-promotion/physical-activity/global-status-report-on-physical-activity-2022
+https://www.thegoodbody.com/fitness-statistics/
+https://www.cdc.gov/nchs/data/databriefs/db443.pdf
+https://americanfitnessindex.org/wp-content/uploads/2021/07/2021-American-Fitness-Index-Summary-Report_FINAL-20210610.pdf
+https://www.cdc.gov/physicalactivity/data/index.html
+
 
 This workout App will help Angel who is studying graduate program. She is good in her academics, but she’s not fit due to lack of focus on her physical health.
 This application can help Angel to become fitter by showing different forms of exercises and she can track all the progress by History.
@@ -21,7 +29,7 @@ We use text to speech, which is very useful in so many different applications.
 We will use a media player, timers, recycle view for our project.
 
 
- The FitnessApplication solution sets itself apart from competing products on the market with a number of special features. Its text-to-speech integration, which offers audio directions and feedback while exercising, is one of its distinctive characteristics. This feature improves inclusivity and accessibility by accommodating people who need or prefer aural instruction when working out. In addition, users can save user profiles, workout logs, and routines directly on their devices thanks to SQLite's data storage support, which guarantees data confidentiality and privacy. The software distinguishes itself further by focusing on a certain demographic, such as students in their mid-20s, and customizing its features and functionalities to suit their requirements and tastes. The FitnessApplication distinguishes itself from other solutions on the market by providing a range of features that give priority to user engagement, accessibility, and customization. Though there are many fitness apps accessible, not all of them might provide as much individualized user experience or text-to-speech integration as others. The FitnessApplication sets itself apart from other fitness apps by concentrating on providing focused solutions to solve the unique problems encountered by students, such as stress management in the classroom and placing a high priority on physical health.
+The FitnessApplication solution sets itself apart from competing products on the market with a number of special features. Its text-to-speech integration, which offers audio directions and feedback while exercising, is one of its distinctive characteristics. This feature improves inclusivity and accessibility by accommodating people who need or prefer aural instruction when working out. In addition, users can save user profiles, workout logs, and routines directly on their devices thanks to SQLite's data storage support, which guarantees data confidentiality and privacy. The software distinguishes itself further by focusing on a certain demographic, such as students in their mid-20s, and customizing its features and functionalities to suit their requirements and tastes. The FitnessApplication distinguishes itself from other solutions on the market by providing a range of features that give priority to user engagement, accessibility, and customization. Though there are many fitness apps accessible, not all of them might provide as much individualized user experience or text-to-speech integration as others. The FitnessApplication sets itself apart from other fitness apps by concentrating on providing focused solutions to solve the unique problems encountered by students, such as stress management in the classroom and placing a high priority on physical health.
 The following four Google Play Store solutions are connected to the FitnessApplication:
 
 1. FitNotes 2 - Gym Workout Log:
@@ -65,3 +73,11 @@ The following four Google Play Store solutions are connected to the FitnessAppli
 ![Home Workout](https://github.com/CS639-Team1-FinalProject/FitnessApplication/blob/Bangling/IMG_1792.PNG?raw=true)
 
 These current options demonstrate many strategies for tracking exercise and fitness, each with specific advantages and areas of emphasis. The FitnessApplication can find areas for feature improvement and differentiation to give consumers a distinctive and engaging fitness experience by examining these options. Moreover, screenshots of these already-available solutions can be added to offer visual comparisons and an understanding of their feature sets and user interfaces.
+
+To implement this project we will be using Mobile Application Frameworks like Andriod Studio, Kotlin. We will be also using partner API's.
+
+Citations:
+
+https://reintech.io/blog/kotlin-sensors-building-fitness-tracker-app
+https://developer.android.com/health-and-fitness/guides/basic-fitness-app/overview
+https://www.geeksforgeeks.org/how-to-create-a-workout-android-app-with-kotlin/
