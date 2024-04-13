@@ -31,6 +31,7 @@ The following three Google Play Store solutions are connected to the FitnessAppl
 
 • FitNotes is more gym-focused than the FitnessApplication, and it doesn't have features like text-to-speech integration or customized user experiences.
 
+![FitNotes 2 - Gym](https://github.com/CS639-Team1-FinalProject/FitnessApplication/assets/123391827/f30e57f8-8fa7-4e88-a992-d540474534ab)
 
 
 2. MyFitnessPal:
