@@ -2,7 +2,7 @@
 
 ## Idea Proposal & Research
 
-FitnessApplication will help users achieve their health and fitness goals conveniently from their mobile devices. 
+FitnessApplication will help users achieve their health and fitness goals conveniently anywhere from their mobile devices. 
 This app successfully tackles these problems and helps to enhance students' general well-being and well-being is the aim of our project.
 
 
