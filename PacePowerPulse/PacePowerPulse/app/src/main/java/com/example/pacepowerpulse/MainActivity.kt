@@ -22,6 +22,14 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
 
         }
+        //Adding a click event to the BMI calculator button and navigating it to the BMI calculator feature.
+
+        binding?.flBMI?.setOnClickListener {
+            //Launching the BMI activity
+            val intent=Intent(this,BMIActivity::class.java)
+            startActivity(intent)
+
+        }
     }
 
     override fun onDestroy() {
