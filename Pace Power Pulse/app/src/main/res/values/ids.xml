@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="myImageView" type="id" />
+    <item name="toolBarExercise" type="id"/>
+    <item name="etMetricUnitHeight" type="id" />
+    <item name="etMetricUnitWeight" type="id" />
+
+</resources>
