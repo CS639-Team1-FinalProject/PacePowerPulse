@@ -15,6 +15,10 @@
       android:background="#FFFFFF" />
 
   <!--positioned below toolbar-->
+<<<<<<< HEAD:PacePowerPulse/app/src/main/res/layout/activity_bmi.xml
+=======
+  <!--TODO(Step 1 : Adding radio selection for METRIC and US Units.)-->
+>>>>>>> 8ab876ce53ccf873d49dbe1cafe85dfd10cb6580:PacePowerPulse/PacePowerPulse/PacePowerPulse/app/src/main/res/layout/activity_bmi.xml
   <!--START-->
   <RadioGroup
       android:id="@+id/rgUnits"
