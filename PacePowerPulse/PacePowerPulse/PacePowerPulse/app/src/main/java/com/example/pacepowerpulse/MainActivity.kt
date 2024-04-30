@@ -10,6 +10,7 @@ import com.example.pacepowerpulse.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
     private var binding: ActivityMainBinding?= null
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
@@ -27,6 +28,12 @@ class MainActivity : AppCompatActivity() {
         binding?.flBMI?.setOnClickListener {
             //Launching the BMI activity
             val intent=Intent(this,BMIActivity::class.java)
+            startActivity(intent)
+
+        }
+        binding?.flHistory?.setOnClickListener {
+            //Launching the BMI activity
+            val intent=Intent(this,HistoryActivity::class.java)
             startActivity(intent)
 
         }
