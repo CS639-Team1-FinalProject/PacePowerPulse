@@ -26,7 +26,7 @@
             android:name=".SignUpActivity"
             android:exported="false" />
         <activity
-            android:name=".HistoryActivity"
+            android:name=".BMRActivity"
             android:exported="false" />
         <activity
             android:name=".BMIActivity"
