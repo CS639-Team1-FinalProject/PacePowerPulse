@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/ageInput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Enter Age"
+        android:layout_marginTop="16dp"
+        android:inputType="number"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/weightInput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Enter Weight (kg)"
+        android:layout_below="@id/ageInput"
+        android:layout_marginTop="16dp"
+        android:inputType="numberDecimal"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/heightInput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Enter Height (cm)"
+        android:layout_below="@id/weightInput"
+        android:layout_marginTop="16dp"
+        android:inputType="numberDecimal"
+        android:layout_centerHorizontal="true" />
+
+    <RadioButton
+        android:id="@+id/maleRadioButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Male"
+        android:checked="true"
+        android:layout_below="@id/heightInput"
+        android:layout_marginTop="16dp"
+        android:layout_alignLeft="@id/heightInput"
+        android:layout_alignStart="@id/heightInput" />
+
+    <RadioButton
+        android:id="@+id/femaleRadioButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Female"
+        android:layout_below="@id/maleRadioButton"
+        android:layout_marginTop="8dp"
+        android:layout_alignLeft="@id/maleRadioButton"
+        android:layout_alignStart="@id/maleRadioButton" />
+
+    <Button
+        android:id="@+id/calculateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="56dp"
+        android:text="Calculate"
+        android:layout_below="@id/femaleRadioButton"
+        android:layout_marginTop="16dp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/resultText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/calculateButton"
+        android:layout_marginTop="16dp"
+        android:text=""
+        android:textSize="18sp"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

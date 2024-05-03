@@ -13,7 +13,6 @@ class MainActivity : AppCompatActivity() {
     private var binding: ActivityMainBinding?= null
     private lateinit var firebaseAuth: FirebaseAuth
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
@@ -44,13 +43,11 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
 
         }
-        binding?.flHistory?.setOnClickListener {
-            //Launching the BMI activity
-            val intent=Intent(this,HistoryActivity::class.java)
+        binding?.flBMR?.setOnClickListener {
+            //Launching the BMR activity
+            val intent=Intent(this,BMRActivity::class.java)
             startActivity(intent)
-
         }
-        
     }
 
     override fun onDestroy() {
