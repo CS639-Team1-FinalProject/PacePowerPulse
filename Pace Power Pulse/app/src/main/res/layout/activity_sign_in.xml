@@ -5,9 +5,22 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
+    tools:context=".SignInActivity">
+    <ImageView
+        android:id="@id/myImageView"
+        android:layout_width="456dp"
+        android:layout_height="260dp"
+        android:contentDescription="@string/icon_image"
+        android:src="@drawable/main_page_image"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="5dp"
+        tools:ignore="MissingConstraints" />
+=======
     android:background="@drawable/signin_screen"
     tools:context=".SignInActivity">
 
+>>>>>>> origin/avinash
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/emailLayout"
@@ -16,8 +29,13 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="16dp"
         android:layout_marginTop="350dp"
+<<<<<<< HEAD
+        app:boxStrokeColor="@color/colorAccent"
+        app:hintTextColor="@color/colorAccent"
+=======
         app:boxStrokeColor="@color/yellow"
         app:hintTextColor="@color/yellow"
+>>>>>>> origin/avinash
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -39,8 +57,13 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="16dp"
         android:layout_marginTop="24dp"
+<<<<<<< HEAD
+        app:boxStrokeColor="@color/colorAccent"
+        app:hintTextColor="@color/colorAccent"
+=======
         app:boxStrokeColor="@color/yellow"
         app:hintTextColor="@color/yellow"
+>>>>>>> origin/avinash
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -61,7 +84,11 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="16dp"
+<<<<<<< HEAD
+        android:background="@color/colorAccent"
+=======
         android:background="@color/yellow"
+>>>>>>> origin/avinash
         android:text="Sign In"
         android:textColor="@color/black"
         android:textStyle="bold"
