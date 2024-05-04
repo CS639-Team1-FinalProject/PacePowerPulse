@@ -41,7 +41,6 @@ class MainActivity : AppCompatActivity() {
             //Launching the BMI activity
             val intent=Intent(this,BMIActivity::class.java)
             startActivity(intent)
-
         }
         binding?.flBMR?.setOnClickListener {
             //Launching the BMR activity
